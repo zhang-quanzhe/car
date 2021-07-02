@@ -1,0 +1,2 @@
+cancontrol:car_navigation:class1_ros_qt_demo:optitrack_port:path_planning:sbg_ros_rec:show_path:ultra_serial_port
+-DCATKIN_DEVEL_PREFIX=/home/zqz/car/devel -DCMAKE_INSTALL_PREFIX=/home/zqz/car/install -G Unix Makefiles
